@@ -89,22 +89,6 @@ J’aime relever des défis complexes, apprendre de nouvelles compétences et co
 
 ---
 
-### [Boustifaille – Backend + Front Vue.js](https://github.com/SlyCatDev/Boustifaille)
-
-**Boustifaille** est un projet comprenant une API REST avec **Node.js / Express / Sequelize** et un front-end en **Vue.js**.  
-
-- **Fonctionnalités** : CRUD complet (ajout, modification, suppression, affichage de recettes)  
-- Illustre mes compétences en **API REST**, **organisation backend** et **connexion front-back**  
-
-**Stack :**  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white)
-
----
-
 ### [Portfolio Développeur](https://github.com/SlyCatDev/portfolio)
 
 **Mon Portfolio** est un site moderne et responsive pour présenter mes projets et compétences.  
