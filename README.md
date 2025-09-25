@@ -5,8 +5,8 @@
 Je suis un Développeur junior passionné, avec de l’expérience en Vue.js et Node.js.  
 J’aime relever des défis complexes, apprendre de nouvelles compétences et collaborer avec des équipes diverses pour créer des solutions innovantes.  
 
-- 🌱 J’apprends actuellement : Adonis.JS
-- 🔭 Je travaille sur : Boustifaille (Vue.js)
+- 🌱 J’apprends actuellement : React/AdonisJs
+- 🔭 Je travaille actuellement sur : Boustify
 - 📫 Me contacter : Par mail [sylvain.raveneau1@gmail.com] ou sur mon LinkedIn [https://www.linkedin.com/in/sylvain-raveneau/]
 - ⚡ Mes passions : Les jeux vidéo, la musculation, la course à pied, Les Escape Game
 
